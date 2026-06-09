@@ -11,19 +11,19 @@ class Node {
     public class palindrom {
         Node head;
 
-        public void add(int data){
-                Node newNode = new Node(data);
-                if (head==null) {
-                head = newNode;
-                return;
-                }
+        // public void add(int data){
+        //         Node newNode = new Node(data);
+        //         if (head==null) {
+        //         head = newNode;
+        //         return;
+        //         }
                 
-                Node current = head;
-                while (current.next!=null) {
-                current=current.next;
-                }
-                current.next = newNode;
-            }
+        //         Node current = head;
+        //         while (current.next!=null) {
+        //         current=current.next;
+        //         }
+        //         current.next = newNode;
+        //     }
 
         public static Node revesNode (Node head){
             Node element = head;
