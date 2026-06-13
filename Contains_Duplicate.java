@@ -4,7 +4,7 @@ import java.util.HashSet;
 // using sorting
 public class Contains_Duplicate {
     public static boolean containsDuplicate(int[] nums) {
-        int chak = 0;
+        int chak = -1;
         Arrays.sort(nums);
         for(int i :nums){
             if (i==chak) {
