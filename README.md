@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
