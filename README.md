@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0011-container-with-most-water) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0011-container-with-most-water) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
