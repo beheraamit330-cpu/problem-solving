@@ -32,3 +32,21 @@ class Solution {
 
     }
 }
+
+/**
+Approach: Diameter of Binary Tree
+Intuition
+
+The diameter of a binary tree is the length of the longest path between any two nodes in the tree. This path may or may not pass through the root.
+
+To find the diameter efficiently, we calculate the height of every subtree. At each node, the longest path passing through that node is the sum of:
+
+Height of the left subtree (lh)
+Height of the right subtree (rh)
+
+So, the diameter passing through a node is:
+
+Diameter = Left Height + Right Height
+
+We keep track of the maximum such value while traversing the tree.
+**/
