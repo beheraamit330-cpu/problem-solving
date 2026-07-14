@@ -48,3 +48,26 @@ class Solution {
         return ans;
     }
 }
+
+
+// Approach (BFS + Horizontal Distance)
+// Assign every node a Horizontal Distance (HD).
+// Root → HD = 0
+// Left child → HD - 1
+// Right child → HD + 1
+// Perform Level Order Traversal (BFS).
+// Store the first node encountered for every HD.
+// Finally print values from minimum HD to maximum HD.
+
+
+// Algorithm
+// Create a Queue.
+// Push (root, 0).
+// Create a TreeMap.
+// While queue is not empty
+// Pop node.
+// If HD is not present in map
+// Store node value.
+// Push left child with HD-1.
+// Push right child with HD+1.
+// Return values of TreeMap.
