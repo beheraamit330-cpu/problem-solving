@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Two Pointers
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0257-binary-tree-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
