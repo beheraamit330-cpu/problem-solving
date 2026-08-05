@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0011-container-with-most-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -147,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0701-insert-into-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
