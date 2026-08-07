@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0011-container-with-most-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
