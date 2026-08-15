@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2235-add-two-integers](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
