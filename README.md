@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0257-binary-tree-paths) |
+| [0709-to-lower-case](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2390-removing-stars-from-a-string) |
