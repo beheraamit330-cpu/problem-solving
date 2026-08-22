@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1572-matrix-diagonal-sum](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
