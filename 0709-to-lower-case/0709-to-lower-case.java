@@ -4,3 +4,6 @@ class Solution {
 
     }
 }
+
+
+// Just return  the toLowerCase() function 
