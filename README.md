@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
