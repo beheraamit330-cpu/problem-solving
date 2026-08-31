@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0257-binary-tree-paths) |
 | [0709-to-lower-case](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1108-defanging-an-ip-address) |
