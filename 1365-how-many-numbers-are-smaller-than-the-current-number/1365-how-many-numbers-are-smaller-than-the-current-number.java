@@ -21,3 +21,5 @@ class Solution {
         return count;
     }
 }
+
+// HASH_MAP + Array sort + loop
