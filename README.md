@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0989-add-to-array-form-of-integer](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2235-add-two-integers](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/beheraamit330-cpu/problem-solving/tree/master/2469-convert-the-temperature) |
