@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0989-add-to-array-form-of-integer](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1572-matrix-diagonal-sum) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/beheraamit330-cpu/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/beheraamit330-cpu/problem-solving/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
